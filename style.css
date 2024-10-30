@@ -6,14 +6,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px #f50202;
+    border-bottom: solid 2px #772162;
     padding: 20px;
     font-size: 32px;
     color: #fc0404;
 }
 
 .chamada {
-    background: #faab00;
+    background: #be2626;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -49,7 +49,7 @@ img {
 
 .categoria-filmes img:hover {
     opacity: 1.0;
-    border: 1px solid rgb(231, 228, 9);
+    border: 1px solid rgb(4, 8, 235);
 }
 
 .categoria {
